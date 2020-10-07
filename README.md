@@ -2,7 +2,8 @@
 
 ## Questations
 
-Exercises \
+### Exercises 
+
 Exercise 1: Find pairs of characters \
 Exercise 2: Count substrings \
 Exercise 3: Allow different types for a function argument \
